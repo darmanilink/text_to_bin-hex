@@ -1,2 +1,2 @@
-create new code path to handle filesize being greater than some amount of memory [this'll take 2 seconds if i just use a goto]
+create new code path to handle filesize being greater than some amount of memory
 make a 2nd output file that gives a hexeditor-like output
